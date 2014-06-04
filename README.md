@@ -1,6 +1,6 @@
 zenany.github.io
 ================
 
-just store tech articles,use git as a bloh
+just store tech articles, use git as blog. 
 
 to do...
