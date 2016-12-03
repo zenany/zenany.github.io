@@ -39,7 +39,7 @@
 
 业务模型是前端跟现实世界的对接点，决定了这个技术领域所需要解决的问题，也是前端核心价值之所在。无论技术、产品形态、开发模式怎么变化，这个业务模型是不会变的。对于码农来说， [input -> process -> output](https://en.wikipedia.org/wiki/IPO_model) 是最熟悉不过的模型了，这个经典模型是对计算机系统的高度抽象，借助这个模型对前端对前端进行分析，可以得到这样的业务模型：
 
-
+<img src="../images/about_frontend/biz.png" width="800">
 
 在这个模型中：
 
@@ -60,6 +60,8 @@
 - 浏览器： 负责加载并运行前端程序，Chrome 及基于 Chrome 内核打造的各种浏览器和容器是典型代表。
 
 它们的协作方式如下图所示：
+
+<img src="../images/about_frontend/fe_web_sys_arch.png" width="800">
 
 其中 Application Server 和 静态资源 Server，是通过 HTML 文档中的 `<scrpt> <link> <img> <autio> <video>` 等 资源标签关联起来的。Application 是前端和 Server 端程序的交汇点，也是催生跨界创新的地方。在很长一段时间内，前端和 Server 端的交互就是一份约定好的模板变量，这份变量往往还是 Server 端工程师按照他们的理解定义好的，这就造成了数据的使用方和定义方隔离的情况，在一定程度上束缚了前端并影响到应用研发效率。最近几年，Node.js、bff 就是顺着这个方向持续的产物。
 
@@ -85,6 +87,8 @@
 - 分发渠道：代码如何分发到运行环境
 
 结合前端的业务模型，从这个角度去看前端，会发现一条比较清晰的知识谱系概览图：
+
+<img src="../images/about_frontend/fe_tech_arch.png" width="800">
 
 总体来说，前端研发设计的知识包含如下大类：
 
