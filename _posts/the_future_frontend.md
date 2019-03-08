@@ -1,6 +1,8 @@
 前端之未来
 ========  
 
+> 原文：https://www.yuque.com/zenany/up/the_future_frontend
+
 ## 引
 
 近期学到一个词：[Digital Twin(数字孪生)](https://en.wikipedia.org/wiki/Digital_twin)，简单来讲就是在计算机世界给现实世界的物体（飞船/城市）、系统（电力/交通）建立数字化镜像，让数字世界和物理世界更好地交互，数字大屏也可以算这种技术一种应用场景。这个概念由 [Dr.Michael Grieves 于](https://www.researchgate.net/publication/307509727_Origins_of_the_Digital_Twin_Concept)[ 2002 年提出](https://www.researchgate.net/publication/307509727_Origins_of_the_Digital_Twin_Concept)，随着 IOT、AI、图形技术、工业 4.0 的飞速发展，[应用前景越来越广阔](https://baijiahao.baidu.com/s?id=1617158077142839496)。[Google 一下](https://www.google.com/search?q=digital+twin) 就会发现：NASA、GE、Microsoft、SAP、IBM 等巨头早已布局和应用这项技术，它还是 [Gartner Top 10 Strategic Technology Trends for 2019](https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-technology-trends-for-2019/) 中的一项。
